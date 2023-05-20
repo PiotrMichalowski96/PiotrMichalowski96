@@ -14,4 +14,4 @@ I'm Java Developer
 ✅ Kotlin \
 ✅ NoSQL \
 ✅ Testing, JUnit 5, Cucumber \
-✅ PaaS OpenShift \
+✅ PaaS OpenShift
