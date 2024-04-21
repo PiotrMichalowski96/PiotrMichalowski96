@@ -12,6 +12,6 @@ I'm Java Developer
 ✅ Apache Kafka \
 ✅ Apache Camel \
 ✅ Kotlin \
-✅ NoSQL \
-✅ Testing, JUnit 5, Cucumber \
+✅ NoSQL, MongoDB \
+✅ Automated Testing, JUnit 5, Cucumber \
 ✅ PaaS OpenShift
